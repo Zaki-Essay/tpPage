@@ -1,0 +1,27 @@
+body {
+	background-image: url(greyzz.png);
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+table,
+tr {
+	text-align: center;
+	padding-left: 200px;
+	padding-top: 200px;
+	font-size: 30px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60;
+	color: darkslategrey;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #c0e218;
+}
